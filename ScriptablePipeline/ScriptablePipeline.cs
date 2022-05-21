@@ -22,16 +22,6 @@ public class ScriptablePipeline : ScriptableObject
 
 
 
-
-            public void EnableStates()
-            {
-                
-                
-                
-                
-            }
-
-
 }
 
 public enum LogState
